@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>lubka-and-david</title>
+    <link href="https://serranolozano.github.io/wedding/feed.xml" rel="self" />
+    <link href="https://serranolozano.github.io/wedding" />
+    <updated>2017-11-27T16:06:06+01:00</updated>
+    <author>
+        <name>dhaslock</name>
+    </author>
+    <id>https://serranolozano.github.io/wedding</id>
+
+    <entry>
+        <title>Lubka &amp; David</title>
+        <author>
+            <name>dhaslock</name>
+        </author>
+        <link href="https://serranolozano.github.io/wedding/lubka-and-david.html"/>
+        <id>https://serranolozano.github.io/wedding/lubka-and-david.html</id>
+            <category term="SP"/>
+
+        <updated>2017-12-31T13:02:00+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>El gran día</title>
+        <author>
+            <name>dhaslock</name>
+        </author>
+        <link href="https://serranolozano.github.io/wedding/home.html"/>
+        <id>https://serranolozano.github.io/wedding/home.html</id>
+            <category term="SP"/>
+
+        <updated>2017-12-30T12:27:00+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://serranolozano.github.io/wedding/media/posts/1/ceremonia.jpg" alt="" />
+                p&aacute;gina de inicio
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ubytovanie</title>
+        <author>
+            <name>dhaslock</name>
+        </author>
+        <link href="https://serranolozano.github.io/wedding/ubytovanie.html"/>
+        <id>https://serranolozano.github.io/wedding/ubytovanie.html</id>
+            <category term="SK"/>
+
+        <updated>2017-11-23T11:43:30+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>RSVP</title>
+        <author>
+            <name>dhaslock</name>
+        </author>
+        <link href="https://serranolozano.github.io/wedding/rsvp-2.html"/>
+        <id>https://serranolozano.github.io/wedding/rsvp-2.html</id>
+            <category term="SK"/>
+
+        <updated>2017-11-23T12:51:51+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <form action="https://formspree.io/serranolozano@gmail.com" method="POST">
+<p>Desde aqu&iacute; pod&eacute;is hacernos llegar la confirmaci&oacute;n de asistencia, as&iacute; como otros datos que nos permitir&aacute;n ajustar el d&iacute;a y los actos de manera que sea lo m&aacute;s inolvidable posible para todos.</p>
+<p>Nombre:<br><input name="name" type="text"><br>email:<br> <input name="_replyto" type="email"> <br><input type="submit" value="Enviar"><input name="_language" type="hidden" value="es"><input name="_subject" type="hidden" value="RSVP Boda"></p>
+</form>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pre deti</title>
+        <author>
+            <name>dhaslock</name>
+        </author>
+        <link href="https://serranolozano.github.io/wedding/pre-deti.html"/>
+        <id>https://serranolozano.github.io/wedding/pre-deti.html</id>
+            <category term="SK"/>
+
+        <updated>2017-11-27T16:05:17+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Plán</title>
+        <author>
+            <name>dhaslock</name>
+        </author>
+        <link href="https://serranolozano.github.io/wedding/plan.html"/>
+        <id>https://serranolozano.github.io/wedding/plan.html</id>
+            <category term="SK"/>
+
+        <updated>2017-11-23T11:57:12+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Miesto</title>
+        <author>
+            <name>dhaslock</name>
+        </author>
+        <link href="https://serranolozano.github.io/wedding/miesto.html"/>
+        <id>https://serranolozano.github.io/wedding/miesto.html</id>
+            <category term="SK"/>
+
+        <updated>2017-11-23T11:55:58+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Darčeky</title>
+        <author>
+            <name>dhaslock</name>
+        </author>
+        <link href="https://serranolozano.github.io/wedding/darceky.html"/>
+        <id>https://serranolozano.github.io/wedding/darceky.html</id>
+            <category term="SK"/>
+
+        <updated>2017-11-23T11:40:52+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Lubka &amp; David</title>
+        <author>
+            <name>dhaslock</name>
+        </author>
+        <link href="https://serranolozano.github.io/wedding/lubka-and-david-2.html"/>
+        <id>https://serranolozano.github.io/wedding/lubka-and-david-2.html</id>
+            <category term="SK"/>
+
+        <updated>2017-11-23T11:38:46+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Skevelý deň</title>
+        <author>
+            <name>dhaslock</name>
+        </author>
+        <link href="https://serranolozano.github.io/wedding/skevely-den.html"/>
+        <id>https://serranolozano.github.io/wedding/skevely-den.html</id>
+            <category term="SK"/>
+
+        <updated>2017-11-27T16:05:35+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
