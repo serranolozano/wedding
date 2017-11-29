@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Restringido / Restricted"
-AuthUserFile /home/.htpasswd
+AuthUserFile /serranolozano/wedding/.htpasswd
 require valid-user
