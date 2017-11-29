@@ -1,5 +1,5 @@
 AuthName "Secret Folder"
 AuthType Basic
-AuthUserFile /home/serranolozano/.htpasswds
+AuthUserFile http://lubka-david.eu/.htpasswds
 
 Require valid-user
