@@ -1,4 +1,5 @@
+AuthName "Secret Folder"
 AuthType Basic
-AuthName "Restringido / Restricted"
-AuthUserFile /serranolozano/wedding/.htpasswd
-require valid-user
+AuthUserFile /home/serranolozano/wedding/.htpasswds
+
+Require valid-user
