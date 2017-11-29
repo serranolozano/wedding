@@ -1,5 +1,5 @@
 AuthName "Secret Folder"
 AuthType Basic
-AuthUserFile /home/serranolozano/wedding/.htpasswds
+AuthUserFile /home/serranolozano/.htpasswds
 
 Require valid-user
