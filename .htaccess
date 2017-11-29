@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Restringido / Restricted"
+AuthUserFile /.htpasswd
+require valid-user
