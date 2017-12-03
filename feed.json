@@ -10,51 +10,11 @@
     },
     "items": [
         {
-            "id": "https://serranolozano.github.io/wedding/lubka-and-david.html",
-            "url": "https://serranolozano.github.io/wedding/lubka-and-david.html",
-            "title": "Lubka &amp; David",
-            "author": {
-                "name": "dhaslock"
-            },
-            "tags": [
-                   "SP"
-            ],
-            "date_published": "2017-12-31T13:02:00+01:00",
-            "date_modified": "2017-12-31T13:02:00+01:00"
-        },
-        {
-            "id": "https://serranolozano.github.io/wedding/home.html",
-            "url": "https://serranolozano.github.io/wedding/home.html",
-            "title": "El gran día",
-            "content_html": "p&aacute;gina de inicio",
-            "image": "https://serranolozano.github.io/wedding/media/posts/1/ceremonia.jpg",
-            "author": {
-                "name": "dhaslock"
-            },
-            "tags": [
-                   "SP"
-            ],
-            "date_published": "2017-12-30T12:27:00+01:00",
-            "date_modified": "2017-12-30T12:27:00+01:00"
-        },
-        {
-            "id": "https://serranolozano.github.io/wedding/ubytovanie.html",
-            "url": "https://serranolozano.github.io/wedding/ubytovanie.html",
-            "title": "Ubytovanie",
-            "author": {
-                "name": "dhaslock"
-            },
-            "tags": [
-                   "SK"
-            ],
-            "date_published": "2017-11-23T11:43:30+01:00",
-            "date_modified": "2017-11-23T11:43:30+01:00"
-        },
-        {
             "id": "https://serranolozano.github.io/wedding/rsvp-2.html",
             "url": "https://serranolozano.github.io/wedding/rsvp-2.html",
             "title": "RSVP",
-            "content_html": "<form action=\"https://formspree.io/serranolozano@gmail.com\" method=\"POST\">\n<p>Desde aqu&iacute; pod&eacute;is hacernos llegar la confirmaci&oacute;n de asistencia, as&iacute; como otros datos que nos permitir&aacute;n ajustar el d&iacute;a y los actos de manera que sea lo m&aacute;s inolvidable posible para todos.</p>\n<p>Nombre:<br><input name=\"name\" type=\"text\"><br>email:<br> <input name=\"_replyto\" type=\"email\"> <br><input type=\"submit\" value=\"Enviar\"><input name=\"_language\" type=\"hidden\" value=\"es\"><input name=\"_subject\" type=\"hidden\" value=\"RSVP Boda\"></p>\n</form>",
+            "content_html": "<h2>RSVP</h2>\n<p>Odtiaľ n&aacute;m m&ocirc;žete poslať potvrdenie o pomoci, ako aj ďal&scaron;ie inform&aacute;cie, ktor&eacute; n&aacute;m umožnia upraviť deň a konať tak&yacute;m sp&ocirc;sobom, ktor&yacute; je pre v&scaron;etk&yacute;ch v&scaron;etk&yacute;m nezabudnuteľn&yacute;m.<br><br>Sl&aacute;vnosť bude v sobotu 5 o 16:00 popoludn&iacute; a potom budeme mať oslavu až do noci a raňajky v nedeľu. Na rovnakom mieste oslavy s&uacute; tu izby, ktor&eacute; bud&uacute; m&ocirc;cť zostať spať tej noci pre v&scaron;etk&yacute;ch, ktor&iacute; chc&uacute;.<br><br>Nesk&ocirc;r v&aacute;m poskytneme v&scaron;etky podrobnosti tu na webe.</p>\n<form action=\"https://formspree.io/serranolozano@gmail.com\" method=\"POST\">\n<p><strong>Pri&scaron;iel si?</strong><br> <textarea style=\"margin: 0px; width: 500px; height: 50px;\" name=\"vienen\">Áno / Nie </textarea><br><strong>Kto? </strong><br> <textarea style=\"margin: 0px; width: 500px; height: 50px;\" name=\"quienes\">Iba ja / Me +1 / Dve / Celá rodina ... </textarea><br><strong>Ďal&scaron;ie pripomienky:</strong><br> <textarea style=\"margin: 0px; width: 500px; height: 100px;\" name=\"comentarios\">Niečo, čo nám chcete povedať</textarea><br><strong>Meno:</strong><br> <input name=\"name\" type=\"text\" placeholder=\"meno\"><br> <strong>e-mail:</strong><br> <input name=\"_replyto\" type=\"email\" placeholder=\"kontaktn&yacute; e-mail\"> <br> <br> <input type=\"submit\" value=\"Enviar\"> <br> <input name=\"_language\" type=\"hidden\" value=\"es\"><br> <input name=\"_subject\" type=\"hidden\" value=\"RSVP Boda\"> <br> <input name=\"_next\" type=\"hidden\" value=\"//site.io/thanks.html\"><br> <input style=\"display: none;\" name=\"_gotcha\" type=\"text\"><br> <input name=\"_cc\" type=\"hidden\" value=\"krausova@gmail.com\"></p>\n</form>",
+            "image": "https://serranolozano.github.io/wedding/media/posts/17/original_wedding-invites-and-rsvp.jpg",
             "author": {
                 "name": "dhaslock"
             },
@@ -62,89 +22,22 @@
                    "SK"
             ],
             "date_published": "2017-11-23T11:42:50+01:00",
-            "date_modified": "2017-11-23T12:51:51+01:00"
+            "date_modified": "2017-12-03T12:42:51+01:00"
         },
         {
-            "id": "https://serranolozano.github.io/wedding/pre-deti.html",
-            "url": "https://serranolozano.github.io/wedding/pre-deti.html",
-            "title": "Pre deti",
-            "image": "https://serranolozano.github.io/wedding/media/posts/16/ninos.jpg",
+            "id": "https://serranolozano.github.io/wedding/rsvp.html",
+            "url": "https://serranolozano.github.io/wedding/rsvp.html",
+            "title": "RSVP",
+            "content_html": "<h2>RSVP</h2>\n<p>Desde aqu&iacute; pod&eacute;is hacernos llegar la confirmaci&oacute;n de asistencia, as&iacute; como otros datos que nos permitir&aacute;n ajustar el d&iacute;a y los actos de manera que sea lo m&aacute;s inolvidable posible para todos.</p>\n<p>La ceremonia ser&aacute; el s&aacute;bado 5 a las 16:00 de la tarde, y despu&eacute;s tendremos la celebraci&oacute;n hasta bien entrada la noche y desayunaremos el domingo. En el mismo sitio de la celebraci&oacute;n hay habitaciones para poder quedarse a dormir esa noche para todo el que quiera. M&aacute;s adelante os daremos todos los detalles aqu&iacute; en la web.</p>\n<form action=\"https://formspree.io/serranolozano@gmail.com\" method=\"POST\">\n<p><strong>&iquest;Ven&iacute;s?</strong><br> <textarea style=\"margin: 0px; width: 500px; height: 50px;\" name=\"vienen\">Sí / No </textarea><br> <strong>&iquest;Quienes? </strong><br> <textarea style=\"margin: 0px; width: 500px; height: 50px;\" name=\"quienes\">Sólo yo / Yo +1 / Los dos / Toda la familia... </textarea><br> <strong>Otros comentarios:</strong><br> <textarea style=\"margin: 0px; width: 500px; height: 100px;\" name=\"comentarios\">Algo más que nos querráis decir </textarea><br> <strong>Nombre:</strong><br> <input name=\"name\" type=\"text\" placeholder=\"nombre\"><br> <strong>email:</strong><br> <input name=\"_replyto\" type=\"email\" placeholder=\"email de contacto\"> <br> <br> <input type=\"submit\" value=\"Enviar\"> <br> <input name=\"_language\" type=\"hidden\" value=\"es\"><br> <input name=\"_subject\" type=\"hidden\" value=\"RSVP Boda\"> <br> <input name=\"_next\" type=\"hidden\" value=\"//site.io/thanks.html\"><br> <input style=\"display: none;\" name=\"_gotcha\" type=\"text\"><br> <input name=\"_cc\" type=\"hidden\" value=\"krausova@gmail.com\"></p>\n</form>",
+            "image": "https://serranolozano.github.io/wedding/media/posts/8/original_wedding-invites-and-rsvp.jpg",
             "author": {
                 "name": "dhaslock"
             },
             "tags": [
-                   "SK"
+                   "SP"
             ],
-            "date_published": "2017-11-23T11:42:12+01:00",
-            "date_modified": "2017-11-27T16:05:17+01:00"
-        },
-        {
-            "id": "https://serranolozano.github.io/wedding/plan.html",
-            "url": "https://serranolozano.github.io/wedding/plan.html",
-            "title": "Plán",
-            "image": "https://serranolozano.github.io/wedding/media/posts/15/banquete.jpg",
-            "author": {
-                "name": "dhaslock"
-            },
-            "tags": [
-                   "SK"
-            ],
-            "date_published": "2017-11-23T11:41:49+01:00",
-            "date_modified": "2017-11-23T11:57:12+01:00"
-        },
-        {
-            "id": "https://serranolozano.github.io/wedding/miesto.html",
-            "url": "https://serranolozano.github.io/wedding/miesto.html",
-            "title": "Miesto",
-            "image": "https://serranolozano.github.io/wedding/media/posts/14/basta.jpg",
-            "author": {
-                "name": "dhaslock"
-            },
-            "tags": [
-                   "SK"
-            ],
-            "date_published": "2017-11-23T11:41:14+01:00",
-            "date_modified": "2017-11-23T11:55:58+01:00"
-        },
-        {
-            "id": "https://serranolozano.github.io/wedding/darceky.html",
-            "url": "https://serranolozano.github.io/wedding/darceky.html",
-            "title": "Darčeky",
-            "author": {
-                "name": "dhaslock"
-            },
-            "tags": [
-                   "SK"
-            ],
-            "date_published": "2017-11-23T11:40:52+01:00",
-            "date_modified": "2017-11-23T11:40:52+01:00"
-        },
-        {
-            "id": "https://serranolozano.github.io/wedding/lubka-and-david-2.html",
-            "url": "https://serranolozano.github.io/wedding/lubka-and-david-2.html",
-            "title": "Lubka &amp; David",
-            "author": {
-                "name": "dhaslock"
-            },
-            "tags": [
-                   "SK"
-            ],
-            "date_published": "2017-11-23T11:38:46+01:00",
-            "date_modified": "2017-11-23T11:38:46+01:00"
-        },
-        {
-            "id": "https://serranolozano.github.io/wedding/skevely-den.html",
-            "url": "https://serranolozano.github.io/wedding/skevely-den.html",
-            "title": "Skevelý deň",
-            "image": "https://serranolozano.github.io/wedding/media/posts/11/ceremonia.jpg",
-            "author": {
-                "name": "dhaslock"
-            },
-            "tags": [
-                   "SK"
-            ],
-            "date_published": "2017-11-23T11:25:33+01:00",
-            "date_modified": "2017-11-27T16:05:35+01:00"
+            "date_published": "2017-11-22T13:17:27+01:00",
+            "date_modified": "2017-12-03T12:43:09+01:00"
         }
     ]
 }

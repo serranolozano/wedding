@@ -1,5 +1,0 @@
-AuthName "Secret Folder"
-AuthType Basic
-AuthUserFile http://lubka-david.eu/.htpasswds
-
-Require valid-user
