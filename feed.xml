@@ -3,7 +3,7 @@
     <title>lubka-and-david</title>
     <link href="https://serranolozano.github.io/wedding/feed.xml" rel="self" />
     <link href="https://serranolozano.github.io/wedding" />
-    <updated>2017-12-03T12:44:48+01:00</updated>
+    <updated>2017-12-28T10:54:22+01:00</updated>
     <author>
         <name>dhaslock</name>
     </author>
@@ -18,15 +18,15 @@
         <id>https://serranolozano.github.io/wedding/rsvp-2.html</id>
             <category term="SK"/>
 
-        <updated>2017-12-03T12:42:51+01:00</updated>
+        <updated>2017-12-28T10:51:58+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://serranolozano.github.io/wedding/media/posts/17/original_wedding-invites-and-rsvp.jpg" alt="" />
                 <h2>RSVP</h2>
-<p>Odtiaľ n&aacute;m m&ocirc;žete poslať potvrdenie o pomoci, ako aj ďal&scaron;ie inform&aacute;cie, ktor&eacute; n&aacute;m umožnia upraviť deň a konať tak&yacute;m sp&ocirc;sobom, ktor&yacute; je pre v&scaron;etk&yacute;ch v&scaron;etk&yacute;m nezabudnuteľn&yacute;m.<br><br>Sl&aacute;vnosť bude v sobotu 5 o 16:00 popoludn&iacute; a potom budeme mať oslavu až do noci a raňajky v nedeľu. Na rovnakom mieste oslavy s&uacute; tu izby, ktor&eacute; bud&uacute; m&ocirc;cť zostať spať tej noci pre v&scaron;etk&yacute;ch, ktor&iacute; chc&uacute;.<br><br>Nesk&ocirc;r v&aacute;m poskytneme v&scaron;etky podrobnosti tu na webe.</p>
+<p>Tu v&aacute;s popros&iacute;me o potvrdenie va&scaron;ej &uacute;časti, pr&iacute;p. ne&uacute;časti, ako aj o ďaľ&scaron;ie inform&aacute;cie, ktor&eacute; n&aacute;m pom&ocirc;žu zorganizovať n&aacute;&scaron; svadobn&yacute; deň k najv&auml;č&scaron;ej spokojnosti v&scaron;etk&yacute;ch.&nbsp;<br><br>Obrad sa bude konať v sobotu 5. m&aacute;ja o 16:00 (od 15:00 bude pod&aacute;van&eacute; občerstvenie pre zhromažďuj&uacute;cich sa svadobčanov), nasledovať bude svadobn&aacute; hostina a veselica bude trvať až do r&aacute;na bieleho. V nedeľu sa bud&uacute; pod&aacute;vať raňajky pre t&yacute;ch svadobčanov, ktor&iacute; sa rozdhodn&uacute; prenocovať. K dospoz&iacute;cii bude ubytovanie pre v&scaron;etk&yacute;ch, ktor&iacute; o to bud&uacute; mať z&aacute;ujem. Bliž&scaron;ie inform&aacute;cie o ubytovan&iacute; ako aj ďaľsie podrobnosti bud&uacute; postupne prid&aacute;van&eacute; sem na str&aacute;nku.</p>
 <form action="https://formspree.io/serranolozano@gmail.com" method="POST">
-<p><strong>Pri&scaron;iel si?</strong><br> <textarea style="margin: 0px; width: 500px; height: 50px;" name="vienen">Áno / Nie </textarea><br><strong>Kto? </strong><br> <textarea style="margin: 0px; width: 500px; height: 50px;" name="quienes">Iba ja / Me +1 / Dve / Celá rodina ... </textarea><br><strong>Ďal&scaron;ie pripomienky:</strong><br> <textarea style="margin: 0px; width: 500px; height: 100px;" name="comentarios">Niečo, čo nám chcete povedať</textarea><br><strong>Meno:</strong><br> <input name="name" type="text" placeholder="meno"><br> <strong>e-mail:</strong><br> <input name="_replyto" type="email" placeholder="kontaktn&yacute; e-mail"> <br> <br> <input type="submit" value="Enviar"> <br> <input name="_language" type="hidden" value="es"><br> <input name="_subject" type="hidden" value="RSVP Boda"> <br> <input name="_next" type="hidden" value="//site.io/thanks.html"><br> <input style="display: none;" name="_gotcha" type="text"><br> <input name="_cc" type="hidden" value="krausova@gmail.com"></p>
+<p><strong>Pr&iacute;dete?</strong><br> <textarea style="margin: 0px; width: 500px; height: 50px;" name="vienen">Áno / Nie </textarea><br><strong>Kto presne? </strong><br> <textarea style="margin: 0px; width: 500px; height: 50px;" name="quienes">Iba ja / Me +1 / Dve / Celá rodina ... </textarea><br><strong>Ak&eacute;koľvek ďal&scaron;ie inform&aacute;cie:</strong><br> <textarea style="margin: 0px; width: 500px; height: 100px;" name="comentarios">Niečo, čo nám chcete povedať</textarea><br><strong>Meno:</strong><br> <input name="name" type="text" placeholder="meno"><br> <strong>e-mail:</strong><br> <input name="_replyto" type="email" placeholder="kontaktn&yacute; e-mail"> <br> <br> <input type="submit" value="Odoslať"> <br> <input name="_language" type="hidden" value="sk"><br> <input name="_subject" type="hidden" value="RSVP Boda"> <br> <input name="_next" type="hidden" value="www.lubka-david.eu"><br> <input style="display: none;" name="_gotcha" type="text"><br> <input name="_cc" type="hidden" value="krausova@gmail.com"></p>
 </form>
             ]]>
         </content>
@@ -40,7 +40,7 @@
         <id>https://serranolozano.github.io/wedding/rsvp.html</id>
             <category term="SP"/>
 
-        <updated>2017-12-03T12:43:09+01:00</updated>
+        <updated>2017-12-28T10:52:56+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -49,7 +49,7 @@
 <p>Desde aqu&iacute; pod&eacute;is hacernos llegar la confirmaci&oacute;n de asistencia, as&iacute; como otros datos que nos permitir&aacute;n ajustar el d&iacute;a y los actos de manera que sea lo m&aacute;s inolvidable posible para todos.</p>
 <p>La ceremonia ser&aacute; el s&aacute;bado 5 a las 16:00 de la tarde, y despu&eacute;s tendremos la celebraci&oacute;n hasta bien entrada la noche y desayunaremos el domingo. En el mismo sitio de la celebraci&oacute;n hay habitaciones para poder quedarse a dormir esa noche para todo el que quiera. M&aacute;s adelante os daremos todos los detalles aqu&iacute; en la web.</p>
 <form action="https://formspree.io/serranolozano@gmail.com" method="POST">
-<p><strong>&iquest;Ven&iacute;s?</strong><br> <textarea style="margin: 0px; width: 500px; height: 50px;" name="vienen">Sí / No </textarea><br> <strong>&iquest;Quienes? </strong><br> <textarea style="margin: 0px; width: 500px; height: 50px;" name="quienes">Sólo yo / Yo +1 / Los dos / Toda la familia... </textarea><br> <strong>Otros comentarios:</strong><br> <textarea style="margin: 0px; width: 500px; height: 100px;" name="comentarios">Algo más que nos querráis decir </textarea><br> <strong>Nombre:</strong><br> <input name="name" type="text" placeholder="nombre"><br> <strong>email:</strong><br> <input name="_replyto" type="email" placeholder="email de contacto"> <br> <br> <input type="submit" value="Enviar"> <br> <input name="_language" type="hidden" value="es"><br> <input name="_subject" type="hidden" value="RSVP Boda"> <br> <input name="_next" type="hidden" value="//site.io/thanks.html"><br> <input style="display: none;" name="_gotcha" type="text"><br> <input name="_cc" type="hidden" value="krausova@gmail.com"></p>
+<p><strong>&iquest;Ven&iacute;s?</strong><br> <textarea style="margin: 0px; width: 500px; height: 50px;" name="vienen">Sí / No </textarea><br> <strong>&iquest;Quienes? </strong><br> <textarea style="margin: 0px; width: 500px; height: 50px;" name="quienes">Sólo yo / Yo +1 / Los dos / Toda la familia... </textarea><br> <strong>Otros comentarios:</strong><br> <textarea style="margin: 0px; width: 500px; height: 100px;" name="comentarios">Algo más que nos querráis decir </textarea><br> <strong>Nombre:</strong><br> <input name="name" type="text" placeholder="nombre"><br> <strong>email:</strong><br> <input name="_replyto" type="email" placeholder="email de contacto"> <br> <br> <input type="submit" value="Enviar"> <br> <input name="_language" type="hidden" value="es"><br> <input name="_subject" type="hidden" value="RSVP Boda"> <br> <input name="_next" type="hidden" value="http://www.lubka-david.eu"><br> <input style="display: none;" name="_gotcha" type="text"><br> <input name="_cc" type="hidden" value="krausova@gmail.com"></p>
 </form>
             ]]>
         </content>
