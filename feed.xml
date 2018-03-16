@@ -3,7 +3,7 @@
     <title>lubka-and-david</title>
     <link href="https://serranolozano.github.io/wedding/feed.xml" rel="self" />
     <link href="https://serranolozano.github.io/wedding" />
-    <updated>2018-03-16T12:04:58+01:00</updated>
+    <updated>2018-03-16T12:32:36+01:00</updated>
     <author>
         <name>dhaslock</name>
     </author>
@@ -66,6 +66,24 @@
 <p class="p2"> </p>
 <p class="p1"><span class="s1">Ak by ste uprednostnili bankový prevod, tak údaje Dobrého anjela k našej svadbe sú nasledovné:</span></p>
 <pre class="p1"><span class="s1">IBAN: <strong>SK7802000000002197258257</strong></span><br><span class="s1">Variabilný symbol: <strong>11011139</strong></span></pre>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Miesto</title>
+        <author>
+            <name>dhaslock</name>
+        </author>
+        <link href="https://serranolozano.github.io/wedding/miesto.html"/>
+        <id>https://serranolozano.github.io/wedding/miesto.html</id>
+            <category term="SK"/>
+
+        <updated>2018-03-16T12:31:25+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://serranolozano.github.io/wedding/media/posts/14/basta_pajstun.jpg" alt="" />
+                <iframe width="640" height="480" src="https://www.google.com/maps/d/embed?mid=1JRas09woaRRZotJQXT7Lb7R8zKdGsNlB"></iframe>
             ]]>
         </content>
     </entry>
@@ -150,6 +168,24 @@
 <p class="p2"><strong>El mejor regalo para nosotros es que hayáis decidido pasar nuestro día con nosotros</strong>, y de verdad es así. No tenemos ninguna lista de regalos, planchas, platos ó copas de cristal que nos podrían venir bien. Por no decir que llevarlos de vuelta a Alicante sería complicado 😂.</p>
 <p>Entonces, <strong>venid solo vosotros</strong>, no nos hace falta nada más para ser felices como perdices, ¡de verdad!.</p>
 <p class="p2">Si a pesar de todo queréis hacernos algún regalo, por supuesto os agradeceríamos cualquier <strong>detalle personal</strong>. Y si nos queréis hacer un regalo pero sin complicaros la vida pensando qué podría ser y preferís la forma más tradicional de un sobre, vuestros preciados doblones irán dirigidos al cofre 💰 para la luna de miel que tenemos pensado hacer cuando Amálka sea un poco mayor, haciendo con ella una ruta por Eslovaquia.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>El Sitio</title>
+        <author>
+            <name>dhaslock</name>
+        </author>
+        <link href="https://serranolozano.github.io/wedding/el-sitio.html"/>
+        <id>https://serranolozano.github.io/wedding/el-sitio.html</id>
+            <category term="SP"/>
+
+        <updated>2018-03-16T12:28:35+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://serranolozano.github.io/wedding/media/posts/4/basta_pajstun.jpg" alt="" />
+                <iframe width="640" height="480" src="https://www.google.com/maps/d/embed?mid=1JRas09woaRRZotJQXT7Lb7R8zKdGsNlB"></iframe>
             ]]>
         </content>
     </entry>
