@@ -13,8 +13,8 @@
             "id": "https://serranolozano.github.io/wedding/rsvp-2.html",
             "url": "https://serranolozano.github.io/wedding/rsvp-2.html",
             "title": "RSVP",
-            "content_html": "<h2>RSVP</h2>\n<p>Tu v&aacute;s popros&iacute;me o potvrdenie va&scaron;ej &uacute;časti, pr&iacute;p. ne&uacute;časti, ako aj o ďaľ&scaron;ie inform&aacute;cie, ktor&eacute; n&aacute;m pom&ocirc;žu zorganizovať n&aacute;&scaron; svadobn&yacute; deň k najv&auml;č&scaron;ej spokojnosti v&scaron;etk&yacute;ch.&nbsp;<br><br>Obrad sa bude konať v sobotu, 5. m&aacute;ja o 16:00 (od 15:00 bude pod&aacute;van&eacute; občerstvenie pre zhromažďuj&uacute;cich sa svadobčanov), nasledovať bude svadobn&aacute; hostina a veselica bude trvať až do r&aacute;na bieleho. V nedeľu sa bud&uacute; pod&aacute;vať raňajky pre t&yacute;ch svadobčanov, ktor&iacute; sa rozdhodn&uacute; prenocovať. K dispoz&iacute;cii bude ubytovanie pre v&scaron;etk&yacute;ch, ktor&iacute; o to bud&uacute; mať z&aacute;ujem. Bliž&scaron;ie inform&aacute;cie o ubytovan&iacute; ako aj ďaľsie podrobnosti bud&uacute; postupne prid&aacute;van&eacute; sem na str&aacute;nku.</p>\n<form action=\"https://formspree.io/serranolozano@gmail.com\" method=\"POST\">\n<p><strong>Pr&iacute;dete?</strong><br> <textarea style=\"margin: 0px; width: 500px; height: 50px;\" name=\"vienen\">    Áno / Nie \n  </textarea><br><strong> Kto presne? </strong><br> <textarea style=\"margin: 0px; width: 500px; height: 50px;\" name=\"quienes\">    Napr. Iba ja / Ja + 1 / Ja a deti / Celá rodina ... \n  </textarea><br><strong> Ak&eacute;koľvek ďal&scaron;ie inform&aacute;cie: </strong><br> <textarea style=\"margin: 0px; width: 500px; height: 100px;\" name=\"comentarios\">  Čokoľvek ďaľšie, čo nám chcete dať vedieť\n  </textarea><br><strong> Meno: </strong><br> <input name=\"name\" type=\"text\" placeholder=\"meno\"><br> <strong> e-mail: </strong><br> <input name=\"_replyto\" type=\"email\" placeholder=\"kontaktn&yacute; e-mail\"> <br> <br> <input type=\"submit\" value=\"Odoslať\"> <br> <input name=\"_language\" type=\"hidden\" value=\"sk\"><br> <input name=\"_subject\" type=\"hidden\" value=\"RSVP Boda\"> <br> <input name=\"_next\" type=\"hidden\" value=\"http://www.lubka-david.eu\"><br> <input style=\"display: none;\" name=\"_gotcha\" type=\"text\"><br> <input name=\"_cc\" type=\"hidden\" value=\"krausova@gmail.com\"></p>\n</form>",
-            "image": "https://serranolozano.github.io/wedding/media/posts/17/original_wedding-invites-and-rsvp.jpg",
+            "content_html": "<h2>RSVP</h2>\n<p>Tu vás poprosíme o potvrdenie vašej účasti, príp. neúčasti, ako aj o ďaľšie informácie, ktoré nám pomôžu zorganizovať náš svadobný deň k najväčšej spokojnosti všetkých. <br><br>Obrad sa bude konať v sobotu, 5. mája o 16:00 (od 15:00 bude podávané občerstvenie pre zhromažďujúcich sa svadobčanov), nasledovať bude svadobná hostina a veselica bude trvať až do rána bieleho. V nedeľu sa budú podávať raňajky pre tých svadobčanov, ktorí sa rozdhodnú prenocovať. K dispozícii bude ubytovanie pre všetkých, ktorí o to budú mať záujem. Bližšie informácie o ubytovaní ako aj ďaľsie podrobnosti budú postupne pridávané sem na stránku.</p>\n<form action=\"https://formspree.io/serranolozano@gmail.com\" method=\"POST\">\n<p><strong>Prídete?</strong><br> <textarea style=\"margin: 0px; width: 500px; height: 50px;\" name=\"vienen\">    Áno / Nie \n  </textarea><br><strong> Kto presne? </strong><br> <textarea style=\"margin: 0px; width: 500px; height: 50px;\" name=\"quienes\">    Napr. Iba ja / Ja + 1 / Ja a deti / Celá rodina ... \n  </textarea><br><strong> Akékoľvek ďalšie informácie: </strong><br> <textarea style=\"margin: 0px; width: 500px; height: 100px;\" name=\"comentarios\">  Čokoľvek ďaľšie, čo nám chcete dať vedieť\n  </textarea><br><strong> Meno: </strong><br> <input name=\"name\" type=\"text\" placeholder=\"meno\"><br> <strong> e-mail: </strong><br> <input name=\"_replyto\" type=\"email\" placeholder=\"kontaktný e-mail\"> <br> <br> <input type=\"submit\" value=\"Odoslať\"> <br> <input name=\"_language\" type=\"hidden\" value=\"sk\"><br> <input name=\"_subject\" type=\"hidden\" value=\"RSVP Boda\"> <br> <input name=\"_next\" type=\"hidden\" value=\"http://www.lubka-david.eu\"><br> <input style=\"display: none;\" name=\"_gotcha\" type=\"text\"><br> <input name=\"_cc\" type=\"hidden\" value=\"krausova@gmail.com\"></p>\n</form>",
+            "image": "https://serranolozano.github.io/wedding/media/posts/17/rsvp.png",
             "author": {
                 "name": "dhaslock"
             },
@@ -22,14 +22,59 @@
                    "SK"
             ],
             "date_published": "2017-11-23T11:42:50+01:00",
-            "date_modified": "2018-01-01T15:24:10+01:00"
+            "date_modified": "2018-03-16T02:34:11+01:00"
+        },
+        {
+            "id": "https://serranolozano.github.io/wedding/pre-deti.html",
+            "url": "https://serranolozano.github.io/wedding/pre-deti.html",
+            "title": "Kvety",
+            "content_html": "<p class=\"p1\"><span class=\"s1\">Milí moji!</span></p>\n<p class=\"p1\"><span class=\"s1\">Chcela by som vás poprosiť, aby ste mi nenosili kvety. Je to pekná tradícia, ale zároveň aj veľmi rozšafná. Budem mať svoju kyticu a to mi úplne stačí. Navyše je jar, všetko bude (dúfam) rozkvitnuté. Miesto gratulačných kvetov by som vás chcela poprosiť, aby ste čokoľvek, čo by ste inak utratili v kvetinárstve venovali Dobrému anjelovi. Ja im už nejaký ten piatok prispievam a ak môžeme v náš deň D aj trochu pomôcť iným, bude to ešte lepší deň. Nižšie je link aj vysvetlivky, aby to bolo čo najjednoduchšie. Minimálne časovo to bude oveľa rýchlejšie ako návšteva kvetinárstva a nemusíte si to nechávať na sobotné ráno v deň svadby </span><span class=\"s2\">☺</span></p>\n<p><img class=\"post__image--center\" src=\"https://serranolozano.github.io/wedding/media/posts/16/dobryanjel.png\" alt=\"\" width=\"1200\" height=\"300\"></p>\n<p>Z Dobrého anjela nám na túto príležitosť vytvorili užívateľské konto.</p>\n<pre><span class=\"s3\">Link: <strong><a href=\"https://www.dobryanjel.sk/profil-dobreho-anjela/prihlasenie/\"><span class=\"s4\">https://www.dobryanjel.sk/profil-dobreho-anjela/prihlasenie/</span></a></strong></span><br><span class=\"s1\">Užívateľské meno/anjelské číslo: <strong>11011139</strong></span><br><span class=\"s1\">Heslo: <strong>svadba</strong></span></pre>\n<p class=\"p1\"><span class=\"s1\">Dostanete sa na takto vyzerajúcu stránku: </span></p>\n<p>Vpravo kliknite na tlačidlo „prispieť kartou“ (viď obrázok - pic) a dostanete sa na takto vyzerajúcu stránku: pic</p>\n<p class=\"p1\"><span class=\"s1\">Tam už len vyplňte sumu a nezabudnite v políčku „počet mesačných platieb“ uviesť 1 (aby vás tá kytica nevyšla veľmi draho). Pic A ďalej vás to už navedie.</span></p>\n<p class=\"p2\"> </p>\n<p class=\"p1\"><span class=\"s1\">Ak by ste uprednostnili bankový prevod, tak údaje Dobrého anjela k našej svadbe sú nasledovné:</span></p>\n<pre class=\"p1\"><span class=\"s1\">IBAN: <strong>SK7802000000002197258257</strong></span><br><span class=\"s1\">Variabilný symbol: <strong>11011139</strong></span></pre>",
+            "image": "https://serranolozano.github.io/wedding/media/posts/16/flores2.png",
+            "author": {
+                "name": "dhaslock"
+            },
+            "tags": [
+                   "SK"
+            ],
+            "date_published": "2017-11-23T11:42:12+01:00",
+            "date_modified": "2018-03-16T03:23:35+01:00"
+        },
+        {
+            "id": "https://serranolozano.github.io/wedding/darceky.html",
+            "url": "https://serranolozano.github.io/wedding/darceky.html",
+            "title": "Darčeky",
+            "content_html": "<p class=\"p1\"><span class=\"s1\">Milí naši!</span></p>\n<p class=\"p2\">Najväčším darom pre nás je, že ste sa rozhodli s nami stráviť náš svadobný deň a myslíme to naozaj úprimne. Nemáme žiaden zoznam servisov, žehličiek a naberačiek, ktoré by sa nám mohli hodiť. Nehovoriac o tom, že by sa nám určite nezmestili do kufrov pri návrate do Alicante. Takže príďte len vy, nič viac nám ku šťastiu nechýba. Naozaj naozaj!</p>\n<p class=\"p2\">Ak nám chcete niečo darovať, tak budeme samozrejme vďační za akúkoľvek osobnú maličkosť a ak nám chcete niečo darovať, ale chcete to bez komplikácií a uprednostňujete obálkovú formu, tak dukáty odložíme do fondu svadobnej cesty, ktorú by sme radili zorganizovali ako poznávacie kolečko po Slovensku, keď bude Amálka trochu väčšia.</p>",
+            "image": "https://serranolozano.github.io/wedding/media/posts/13/regalos.jpg",
+            "author": {
+                "name": "dhaslock"
+            },
+            "tags": [
+                   "SK"
+            ],
+            "date_published": "2017-11-23T11:40:52+01:00",
+            "date_modified": "2018-03-16T04:08:37+01:00"
+        },
+        {
+            "id": "https://serranolozano.github.io/wedding/el-viaje.html",
+            "url": "https://serranolozano.github.io/wedding/el-viaje.html",
+            "title": "Cómo llegar",
+            "content_html": "<p>Desde Alicante no hay conexión a Bratislava. La mejor opción es viajar al aeropuerto de Viena, a 40 minutos de Bratislava. Se puede viajar con KLM, Swiss Air e Iberia, con escala.</p>\n<p>Sí hay vuelos directos a Praga o Budapest, desde donde se puede viajar en coche o tren a Bratislava.</p>\n<p>Desde Madrid se puede viajar en vuelo directo a Bratislava con Ryanair.</p>",
+            "image": "https://serranolozano.github.io/wedding/media/posts/9/bratislava.png",
+            "author": {
+                "name": "dhaslock"
+            },
+            "tags": [
+                   "SP"
+            ],
+            "date_published": "2017-11-22T13:17:45+01:00",
+            "date_modified": "2018-03-16T04:07:44+01:00"
         },
         {
             "id": "https://serranolozano.github.io/wedding/rsvp.html",
             "url": "https://serranolozano.github.io/wedding/rsvp.html",
             "title": "RSVP",
-            "content_html": "<h2>RSVP</h2>\n<p>Desde aqu&iacute; pod&eacute;is hacernos llegar la confirmaci&oacute;n de asistencia, as&iacute; como otros datos que nos permitir&aacute;n ajustar el d&iacute;a y los actos de manera que sea lo m&aacute;s inolvidable posible para todos.</p>\n<p>La ceremonia ser&aacute; el s&aacute;bado 5 a las 16:00 de la tarde, y despu&eacute;s tendremos la celebraci&oacute;n hasta bien entrada la noche y desayunaremos el domingo. En el mismo sitio de la celebraci&oacute;n hay habitaciones para poder quedarse a dormir esa noche para todo el que quiera. M&aacute;s adelante os daremos todos los detalles aqu&iacute; en la web.</p>\n<form action=\"https://formspree.io/serranolozano@gmail.com\" method=\"POST\">\n<p><strong>&iquest;Ven&iacute;s?</strong><br> <textarea style=\"margin: 0px; width: 500px; height: 50px;\" name=\"vienen\">Sí / No </textarea><br> <strong>&iquest;Quienes? </strong><br> <textarea style=\"margin: 0px; width: 500px; height: 50px;\" name=\"quienes\">Sólo yo / Yo +1 / Los dos / Toda la familia... </textarea><br> <strong>Otros comentarios:</strong><br> <textarea style=\"margin: 0px; width: 500px; height: 100px;\" name=\"comentarios\">Algo más que nos querráis decir </textarea><br> <strong>Nombre:</strong><br> <input name=\"name\" type=\"text\" placeholder=\"nombre\"><br> <strong>email:</strong><br> <input name=\"_replyto\" type=\"email\" placeholder=\"email de contacto\"> <br> <br> <input type=\"submit\" value=\"Enviar\"> <br> <input name=\"_language\" type=\"hidden\" value=\"es\"><br> <input name=\"_subject\" type=\"hidden\" value=\"RSVP Boda\"> <br> <input name=\"_next\" type=\"hidden\" value=\"http://www.lubka-david.eu\"><br> <input style=\"display: none;\" name=\"_gotcha\" type=\"text\"><br> <input name=\"_cc\" type=\"hidden\" value=\"krausova@gmail.com\"></p>\n</form>",
-            "image": "https://serranolozano.github.io/wedding/media/posts/8/original_wedding-invites-and-rsvp.jpg",
+            "content_html": "<h2>RSVP</h2>\n<p>Desde aquí podéis hacernos llegar la confirmación de asistencia, así como otros datos que nos permitirán ajustar el día y los actos de manera que sea lo más inolvidable posible para todos.</p>\n<p>La ceremonia será el sábado 5 a las 16:00 de la tarde, y después tendremos la celebración hasta bien entrada la noche y desayunaremos el domingo. En el mismo sitio de la celebración hay habitaciones para poder quedarse a dormir esa noche para todo el que quiera. Más adelante os daremos todos los detalles aquí en la web.</p>\n<form action=\"https://formspree.io/serranolozano@gmail.com\" method=\"POST\">\n<p><strong>¿Venís?</strong><br> <textarea style=\"margin: 0px; width: 500px; height: 50px;\" name=\"vienen\">Sí / No </textarea><br> <strong>¿Quienes? </strong><br> <textarea style=\"margin: 0px; width: 500px; height: 50px;\" name=\"quienes\">Sólo yo / mi pareja y yo/ Los niños y yo / Toda la familia... </textarea><br> <strong>Otros comentarios:</strong><br> <textarea style=\"margin: 0px; width: 500px; height: 100px;\" name=\"comentarios\">Algo más que nos querráis decir </textarea><br> <strong>Nombre:</strong><br> <input name=\"name\" type=\"text\" placeholder=\"nombre\"><br> <strong>email:</strong><br> <input name=\"_replyto\" type=\"email\" placeholder=\"email de contacto\"> <br> <br> <input type=\"submit\" value=\"Enviar\"> <br> <input name=\"_language\" type=\"hidden\" value=\"es\"><br> <input name=\"_subject\" type=\"hidden\" value=\"RSVP Boda\"> <br> <input name=\"_next\" type=\"hidden\" value=\"http://www.lubka-david.eu\"><br> <input style=\"display: none;\" name=\"_gotcha\" type=\"text\"><br> <input name=\"_cc\" type=\"hidden\" value=\"krausova@gmail.com\"></p>\n</form>",
+            "image": "https://serranolozano.github.io/wedding/media/posts/8/rsvp.png",
             "author": {
                 "name": "dhaslock"
             },
@@ -37,7 +82,22 @@
                    "SP"
             ],
             "date_published": "2017-11-22T13:17:27+01:00",
-            "date_modified": "2017-12-28T10:52:56+01:00"
+            "date_modified": "2018-03-16T02:34:26+01:00"
+        },
+        {
+            "id": "https://serranolozano.github.io/wedding/para-los-ninos.html",
+            "url": "https://serranolozano.github.io/wedding/para-los-ninos.html",
+            "title": "Flores",
+            "content_html": "<p class=\"p1\"><span class=\"s1\">¡Queridos amigos!</span></p>\n<p class=\"p2\"><strong>El mejor regalo para nosotros es que hayáis decidido pasar nuestro día con nosotros</strong>, y de verdad es así. No tenemos ninguna lista de regalos, planchas, platos ó copas de cristal que nos podrían venir bien. Por no decir que llevarlos de vuelta a Alicante sería complicado 😂.</p>\n<p>Entonces, <strong>venid solo vosotros</strong>, no nos hace falta nada más para ser felices como perdices, ¡de verdad!.</p>\n<p class=\"p2\">Si a pesar de todo queréis hacernos algún regalo, por supuesto os agradeceríamos cualquier <strong>detalle personal</strong>. Y si nos queréis hacer un regalo pero sin complicaros la vida pensando qué podría ser y preferís la forma más tradicional de un sobre, vuestros preciados doblones irán dirigidos al cofre 💰 para la luna de miel que tenemos pensado hacer cuando Amálka sea un poco mayor, haciendo con ella una ruta por Eslovaquia.</p>",
+            "image": "https://serranolozano.github.io/wedding/media/posts/6/flores2.png",
+            "author": {
+                "name": "dhaslock"
+            },
+            "tags": [
+                   "SP"
+            ],
+            "date_published": "2017-11-22T13:16:55+01:00",
+            "date_modified": "2018-03-16T03:35:40+01:00"
         }
     ]
 }
